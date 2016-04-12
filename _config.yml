@@ -1,0 +1,28 @@
+name: atidzogchen
+favicon: null
+layout_spectrum: 0.33357861917465925
+typography_spectrum: 0.5589885981753469
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.41498628561384976
+  lightness: 0.207620766479522
+  saturation: 0.34201138699427247
+  rhythmicContrast: 0.5063949592877179
+purpose: []
